@@ -11,11 +11,12 @@
 // List of projects/orgs using your project for the users page.
 const users = [];
 
+//this file dictates how the site looks
 const siteConfig = {
-    title: 'Your Name Here', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
-    profilePhoto: 'img/profile.png',
-    url: 'https://joatmon08.github.io', // Your website URL
+    title: 'Harshitha Ramamurthy', // Title for your website.
+    tagline: 'Part-time Linux kernel developer, Full-time ice cream lover ',
+    profilePhoto: 'img/Harshitha_GWC.jpg',
+    url: 'https://github.com/harshitha-ramamurthy', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -67,9 +68,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
+        linkedin: 'harshitharamamurthy',
         twitter: '',
-        github: '',
+        github: 'harshitha-ramamurthy',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
