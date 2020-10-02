@@ -3,30 +3,14 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I currently work as a Software Developer at Intel writing ethernet device
+drivers for Linux. I am passionate about the power and impact of Open Source.
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+Outside of work, I am a facilitator at Girls Who Code chapter of Portland teaching
+coding to high school girls. I also enjoy travelling and outdoor activities. 
 
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Software Developer at Intel
 
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
-
-## Social Media
-
-- Twitter
-- LinkedIn
-- GitHub
